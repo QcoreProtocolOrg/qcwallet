@@ -4,7 +4,7 @@
 ![Wallet](https://github.com/QcoreProtocolOrg/qcwallet/blob/master/assets/walletdashboard.png "Chrom Extension")
 
 
-# Install from local build
+# Build local project
 
 Clone the repo
 
@@ -18,12 +18,21 @@ Build the source to generate `/build` folder
 
 ```yarn build```
 
-Install
+# Or use the qcwallet.zip
 
-Go to Chrome Extension, turn on developer mode, click `Load Unpacked`, select the `build` folder.
+You can also use the pre-build version, unzip qcwallet.zip
+
+# Install
+
+Go to Chrome Extension, turn on developer mode, click `Load Unpacked`, select the `build` or `qcwallet` folder.
 
 
 ![Build from source](https://github.com/QcoreProtocolOrg/qcwallet/blob/master/assets/chromeextension.png "Chrom Extension")
+
+# Google Chrome Store
+
+In review
+
 
 # Security
 
